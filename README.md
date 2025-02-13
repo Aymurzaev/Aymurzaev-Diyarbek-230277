@@ -1,6 +1,6 @@
 # Aymurzaev-Diyarbek-230277
 import random
-from ext import decorator_1
+from task1 import decorator_1
 
 @decorator_1
 def func():
